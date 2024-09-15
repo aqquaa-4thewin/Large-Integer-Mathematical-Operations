@@ -16,6 +16,10 @@ To run this program, you'll need:
 A C compiler (e.g., GCC)
 Terminal/Command Line access
 
+## Note
+This program is still under development and may contain bugs or unexpected behavior. Further improvements are planned to enhance its performance and accuracy.
+
+
 ## User Instructions
 
 1. Download the Repository
@@ -45,8 +49,6 @@ Run the compiled program by executing the following command in the terminal:
 5. View Results
 The program will output the results of the math operations (add, subtract, multiply, and divide) between the two integers.
 
-## Note
-This program is still under development and may contain bugs or unexpected behavior. Further improvements are planned to enhance its performance and accuracy.
 
 ## How the Project Works
 1. Input Parsing: 
