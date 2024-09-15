@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1684512405 source:c:\users\msi\desktop\c_projects\data-structurep1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1684514612 source:c:\users\msi\desktop\c_projects\p1_1211061_taleenabuzulof_sectionno1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1688539199 source:c:\users\msi\desktop\c_projects\p1_1211061_taleenabuzulof\src\main.cpp
+	"main.h"
+
+1688539199 c:\users\msi\desktop\c_projects\p1_1211061_taleenabuzulof\include\main.h
+
+1688542402 source:c:\users\msi\desktop\c_projects\p1_1211061_taleenabuzulof\main.c
+	<stdio.h>
+	<stdlib.h>
+
